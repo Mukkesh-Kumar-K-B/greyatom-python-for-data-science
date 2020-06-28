@@ -1,0 +1,1 @@
+Make sense of census project helps to implement numpy functions in a better way to carry out array indexing, appending, slicing and updating etc..,
